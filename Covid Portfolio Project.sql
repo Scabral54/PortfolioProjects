@@ -1,3 +1,5 @@
+--Covid data from Janurary 22nd, 2020 to April 30th, 2021
+
 SELECT *
 FROM PortfolioProject.dbo.CovidDeaths
 WHERE continent is not null
