@@ -1,4 +1,5 @@
 --Covid data from Janurary 22nd, 2020 to April 30th, 2021
+--Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 SELECT *
 FROM PortfolioProject.dbo.CovidDeaths
